@@ -1,0 +1,29 @@
+[
+  {
+    "allExamPassed": true,
+    "exam": "Latihan Opsional 1",
+    "errors": []
+  },
+  {
+    "allExamPassed": true,
+    "exam": "Latihan Opsional 2",
+    "errors": []
+  },
+  {
+    "allExamPassed": false,
+    "exam": "Latihan Opsional 3",
+    "errors": [
+      "Jika argumennya adalah \u0027dicoding0101\u0027 dan \u002760\u0027, fungsi manipulateString() seharusnya mengembalikkan nilai dicoding6060"
+    ]
+  },
+  {
+    "allExamPassed": true,
+    "exam": "Latihan Opsional 4",
+    "errors": []
+  },
+  {
+    "allExamPassed": true,
+    "exam": "Latihan Opsional 5",
+    "errors": []
+  }
+]

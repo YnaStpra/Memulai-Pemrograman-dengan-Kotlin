@@ -1,0 +1,161 @@
+[
+    {
+        "file": "src/main/kotlin/com/dicoding/exam/latihan1/App.kt",
+        "errors": [
+            {
+                "line": 20,
+                "column": 30,
+                "message": "Unexpected whitespace",
+                "rule": "standard:function-return-type-spacing"
+            },
+            {
+                "line": 20,
+                "column": 31,
+                "message": "Unexpected spacing before \":\"",
+                "rule": "standard:colon-spacing"
+            },
+            {
+                "line": 21,
+                "column": 9,
+                "message": "Unexpected spacing after \"(\"",
+                "rule": "standard:paren-spacing"
+            },
+            {
+                "line": 21,
+                "column": 26,
+                "message": "Missing spacing before \"{\"",
+                "rule": "standard:curly-spacing"
+            },
+            {
+                "line": 32,
+                "column": 30,
+                "message": "Unexpected whitespace",
+                "rule": "standard:function-return-type-spacing"
+            },
+            {
+                "line": 32,
+                "column": 31,
+                "message": "Unexpected spacing before \":\"",
+                "rule": "standard:colon-spacing"
+            },
+            {
+                "line": 33,
+                "column": 20,
+                "message": "Missing spacing before \"{\"",
+                "rule": "standard:curly-spacing"
+            },
+            {
+                "line": 46,
+                "column": 37,
+                "message": "Unexpected spacing after \"(\"",
+                "rule": "standard:paren-spacing"
+            }
+        ]
+    },
+    {
+        "file": "src/main/kotlin/com/dicoding/exam/latihan2/App.kt",
+        "errors": [
+            {
+                "line": 25,
+                "column": 16,
+                "message": "Unexpected spacing before \":\"",
+                "rule": "standard:colon-spacing"
+            },
+            {
+                "line": 47,
+                "column": 13,
+                "message": "Missing newline after \"(\"",
+                "rule": "standard:wrapping"
+            },
+            {
+                "line": 50,
+                "column": 20,
+                "message": "Missing newline before \")\"",
+                "rule": "standard:wrapping"
+            }
+        ]
+    },
+    {
+        "file": "src/main/kotlin/com/dicoding/exam/latihan3/App.kt",
+        "errors": [
+            {
+                "line": 33,
+                "column": 9,
+                "message": "Unexpected spacing after \"(\"",
+                "rule": "standard:paren-spacing"
+            },
+            {
+                "line": 35,
+                "column": 16,
+                "message": "Unexpected spacing after \"(\"",
+                "rule": "standard:paren-spacing"
+            },
+            {
+                "line": 35,
+                "column": 32,
+                "message": "Missing spacing before \"{\"",
+                "rule": "standard:curly-spacing"
+            },
+            {
+                "line": 37,
+                "column": 16,
+                "message": "Unexpected spacing after \"(\"",
+                "rule": "standard:paren-spacing"
+            },
+            {
+                "line": 37,
+                "column": 33,
+                "message": "Missing spacing before \"{\"",
+                "rule": "standard:curly-spacing"
+            },
+            {
+                "line": 39,
+                "column": 16,
+                "message": "Unexpected spacing after \"(\"",
+                "rule": "standard:paren-spacing"
+            },
+            {
+                "line": 39,
+                "column": 32,
+                "message": "Missing spacing before \"{\"",
+                "rule": "standard:curly-spacing"
+            },
+            {
+                "line": 41,
+                "column": 7,
+                "message": "Unnecessary long whitespace",
+                "rule": "standard:no-multi-spaces"
+            },
+            {
+                "line": 41,
+                "column": 17,
+                "message": "Unexpected spacing after \"(\"",
+                "rule": "standard:paren-spacing"
+            },
+            {
+                "line": 41,
+                "column": 34,
+                "message": "Missing spacing before \"{\"",
+                "rule": "standard:curly-spacing"
+            },
+            {
+                "line": 43,
+                "column": 7,
+                "message": "Unnecessary long whitespace",
+                "rule": "standard:no-multi-spaces"
+            },
+            {
+                "line": 43,
+                "column": 17,
+                "message": "Unexpected spacing after \"(\"",
+                "rule": "standard:paren-spacing"
+            },
+            {
+                "line": 43,
+                "column": 36,
+                "message": "Missing spacing before \"{\"",
+                "rule": "standard:curly-spacing"
+            }
+        ]
+    }
+]
